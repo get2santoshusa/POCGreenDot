@@ -1,0 +1,9 @@
+D:\Local\POC.API\POC.DatabaseHelper\bin\Debug\POC.DatabaseHelper.dll
+D:\Local\POC.API\POC.DatabaseHelper\bin\Debug\POC.DatabaseHelper.pdb
+D:\Local\POC.API\POC.DatabaseHelper\obj\Debug\POC.DatabaseHelper.csprojAssemblyReference.cache
+D:\Local\POC.API\POC.DatabaseHelper\obj\Debug\POC.DatabaseHelper.csproj.CoreCompileInputs.cache
+D:\Local\POC.API\POC.DatabaseHelper\obj\Debug\POC.DatabaseHelper.dll
+D:\Local\POC.API\POC.DatabaseHelper\obj\Debug\POC.DatabaseHelper.pdb
+D:\Local\POC.API\POC.DatabaseHelper\bin\Debug\POC.Common.dll
+D:\Local\POC.API\POC.DatabaseHelper\bin\Debug\POC.Common.pdb
+D:\Local\POC.API\POC.DatabaseHelper\obj\Debug\POC.DatabaseHelper.csproj.CopyComplete

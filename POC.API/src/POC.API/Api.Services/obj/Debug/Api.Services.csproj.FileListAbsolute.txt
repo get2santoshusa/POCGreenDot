@@ -1,0 +1,13 @@
+D:\Local\POC.API\Api.Services\bin\Debug\Api.Services.dll
+D:\Local\POC.API\Api.Services\bin\Debug\Api.Services.pdb
+D:\Local\POC.API\Api.Services\bin\Debug\POC.Api.DTO.dll
+D:\Local\POC.API\Api.Services\bin\Debug\POC.DatabaseHelper.dll
+D:\Local\POC.API\Api.Services\bin\Debug\POC.validation.dll
+D:\Local\POC.API\Api.Services\bin\Debug\POC.Api.DTO.pdb
+D:\Local\POC.API\Api.Services\bin\Debug\POC.DatabaseHelper.pdb
+D:\Local\POC.API\Api.Services\bin\Debug\POC.validation.pdb
+D:\Local\POC.API\Api.Services\obj\Debug\Api.Services.csprojAssemblyReference.cache
+D:\Local\POC.API\Api.Services\obj\Debug\Api.Services.csproj.CoreCompileInputs.cache
+D:\Local\POC.API\Api.Services\obj\Debug\Api.Services.csproj.CopyComplete
+D:\Local\POC.API\Api.Services\obj\Debug\Api.Services.dll
+D:\Local\POC.API\Api.Services\obj\Debug\Api.Services.pdb

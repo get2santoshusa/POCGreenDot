@@ -1,0 +1,6 @@
+D:\Local\POC.API\POC.Common\bin\Debug\POC.Common.dll
+D:\Local\POC.API\POC.Common\bin\Debug\POC.Common.pdb
+D:\Local\POC.API\POC.Common\obj\Debug\POC.Common.csprojAssemblyReference.cache
+D:\Local\POC.API\POC.Common\obj\Debug\POC.Common.csproj.CoreCompileInputs.cache
+D:\Local\POC.API\POC.Common\obj\Debug\POC.Common.dll
+D:\Local\POC.API\POC.Common\obj\Debug\POC.Common.pdb

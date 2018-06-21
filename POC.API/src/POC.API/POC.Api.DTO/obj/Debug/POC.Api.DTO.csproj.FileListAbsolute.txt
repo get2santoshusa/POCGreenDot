@@ -1,0 +1,6 @@
+D:\Local\POC.API\POC.Api.DTO\bin\Debug\POC.Api.DTO.dll
+D:\Local\POC.API\POC.Api.DTO\bin\Debug\POC.Api.DTO.pdb
+D:\Local\POC.API\POC.Api.DTO\obj\Debug\POC.Api.DTO.csprojAssemblyReference.cache
+D:\Local\POC.API\POC.Api.DTO\obj\Debug\POC.Api.DTO.csproj.CoreCompileInputs.cache
+D:\Local\POC.API\POC.Api.DTO\obj\Debug\POC.Api.DTO.dll
+D:\Local\POC.API\POC.Api.DTO\obj\Debug\POC.Api.DTO.pdb
